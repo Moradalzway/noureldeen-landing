@@ -2,7 +2,7 @@
 
 Demo
 
-https://moradalzway.github.io/nourlanding/
+https://moradalzway.github.io/noureldeen-landing/
 
 
 Technology I used in this project
